@@ -2,12 +2,10 @@
 
 To build to the following for will need the following software on your system.
 
-# Unity3d
-
+Unity3d
 https://developer.android.com/studio/index.html
 
-# Android Studio
-
+Android Studio
 https://developer.android.com/studio/index.html
 
 # Getting started with Android development
