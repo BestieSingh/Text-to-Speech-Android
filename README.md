@@ -1,6 +1,7 @@
 # Text to Speech Android Plugin
 
 To build the following program you will need the following software on your system.
+Also thank you to programming partner Anthony Jones for his help.
 
 # Unity3d
 https://unity3d.com/
