@@ -25,3 +25,4 @@ The Pandorabots Playground is a free, integrated development environment for bui
 https://www.pandorabots.com/
 
 ![playground2](https://user-images.githubusercontent.com/18353476/28440038-7ea77532-6d59-11e7-8ded-491857331cdf.png)
+![playground3](https://user-images.githubusercontent.com/18353476/28440215-23ba4360-6d5a-11e7-9b82-9f7d2dd1c5a8.jpg)
