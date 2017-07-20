@@ -21,5 +21,5 @@ The Pandorabots Playground is a free, integrated development environment for bui
 https://www.pandorabots.com/
 
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
-![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398693-41d89c72-6cbd-11e7-895d-13347eded03c.png)
-![playersetandroidpublish](https://user-images.githubusercontent.com/18353476/28398696-4466d5da-6cbd-11e7-9ed4-56a077362261.png)
+![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398802-b888561e-6cbd-11e7-9bd4-9d77f33e424e.png)
+![playersetandroidpublish](https://user-images.githubusercontent.com/18353476/28398805-ba6209d0-6cbd-11e7-87e4-c1ce57973303.png)
