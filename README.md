@@ -9,11 +9,11 @@ https://unity3d.com/
 # Android Studio
 https://developer.android.com/studio/index.html
 
+![android-studio-setup-1](https://user-images.githubusercontent.com/18353476/28398688-3dbaf7a2-6cbd-11e7-9aed-9ffc70cf9816.jpg)
+
 # Getting started with Android development
 
 https://docs.unity3d.com/Manual/android-GettingStarted.html
-
-![android-studio-setup-1](https://user-images.githubusercontent.com/18353476/28398688-3dbaf7a2-6cbd-11e7-9aed-9ffc70cf9816.jpg)
 
 # Pandorabots
 The Pandorabots Playground is a free, integrated development environment for building chatbots loaded with features and tools.
