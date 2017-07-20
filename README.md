@@ -23,3 +23,5 @@ https://docs.unity3d.com/Manual/android-GettingStarted.html
 The Pandorabots Playground is a free, integrated development environment for building chatbots loaded with features and tools.
 
 https://www.pandorabots.com/
+
+![playground2](https://user-images.githubusercontent.com/18353476/28440038-7ea77532-6d59-11e7-8ded-491857331cdf.png)
