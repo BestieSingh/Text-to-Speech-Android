@@ -13,7 +13,12 @@ https://unity3d.com/
 # Android Studio
 https://developer.android.com/studio/index.html
 
-![android-studio-setup-1](https://user-images.githubusercontent.com/18353476/28398688-3dbaf7a2-6cbd-11e7-9aed-9ffc70cf9816.jpg)
+A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.tutorialspoint.com/android/android_studio.htm
+
+![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
+![creat project](https://user-images.githubusercontent.com/18353476/28494097-63a0df68-6ed9-11e7-929e-3eba9a3f6700.png)
+![instant-apps_2x](https://user-images.githubusercontent.com/18353476/28494126-680f3a4e-6eda-11e7-9235-0cd1b4bdf408.png)
+![update-channel_2x](https://user-images.githubusercontent.com/18353476/28494098-68114d94-6ed9-11e7-87d2-3c0c30e866ac.png)
 
 # Getting started with Android development
 
