@@ -27,9 +27,9 @@ A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.t
 https://docs.unity3d.com/Manual/android-GettingStarted.html
 
 # Pandorabots
-The Pandorabots Playground is a free, integrated development environment for building chatbots loaded with features and tools.
+The [Pandorabots Playground](https://www.pandorabots.com/) is a free, integrated development environment for building chatbots loaded with features and tools. 
 
-https://www.pandorabots.com/
+[Pandorabots API Documentation](https://developer.pandorabots.com/docs)
 
 ![playground2](https://user-images.githubusercontent.com/18353476/28440038-7ea77532-6d59-11e7-8ded-491857331cdf.png)
 ![playground3](https://user-images.githubusercontent.com/18353476/28440215-23ba4360-6d5a-11e7-9b82-9f7d2dd1c5a8.jpg)
