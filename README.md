@@ -34,4 +34,11 @@ The [Pandorabots Playground](https://www.pandorabots.com/) is a free, integrated
 [Pandorabots API Documentation](https://developer.pandorabots.com/docs)
 
 ![playground2](https://user-images.githubusercontent.com/18353476/28440038-7ea77532-6d59-11e7-8ded-491857331cdf.png)
+
+Create a bot.
+<p align="center">
+  <img alt="create_bot" src="https://user-images.githubusercontent.com/18353476/30455306-41b835a4-9954-11e7-8c56-dfaae3b472ac.gif">
+</p>
+
+Begin editing and training your Chatbot in the Pandorabots editor.
 ![playground3](https://user-images.githubusercontent.com/18353476/28440215-23ba4360-6d5a-11e7-9b82-9f7d2dd1c5a8.jpg)
