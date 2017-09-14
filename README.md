@@ -4,16 +4,18 @@
 To build this program you will need to install the following software listed below on your system. Also thank you to my programming partner Anthony Jones for his help.
 
 # Unity3d
-https://unity3d.com/
+[Unity](https://unity3d.com)
 
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
 ![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398802-b888561e-6cbd-11e7-9bd4-9d77f33e424e.png)
 ![playersetandroidpublish](https://user-images.githubusercontent.com/18353476/28398805-ba6209d0-6cbd-11e7-87e4-c1ce57973303.png)
 
 # Android Studio
-https://developer.android.com/studio/index.html
+[Android Studio](https://developer.android.com/studio/index.html)
 
-A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.tutorialspoint.com/android/android_studio.htm
+[Android 8.0 (API level 26) Features and APIs](https://developer.android.com/about/versions/oreo/android-8.0.html)
+
+[A good tutorial for Android Studio Setup(Windows, Mac, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
 
 ![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
 ![creat project](https://user-images.githubusercontent.com/18353476/28494097-63a0df68-6ed9-11e7-929e-3eba9a3f6700.png)
