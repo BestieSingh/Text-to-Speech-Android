@@ -17,16 +17,22 @@ To build this program you will need to install the following software listed bel
 
 [A good tutorial for Android Studio Setup(Windows, Mac, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
 
+[Getting started with Android development in Unity](https://docs.unity3d.com/Manual/android-GettingStarted.html)
+
 ![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
 ![creat project](https://user-images.githubusercontent.com/18353476/28494097-63a0df68-6ed9-11e7-929e-3eba9a3f6700.png)
 ![instant-apps_2x](https://user-images.githubusercontent.com/18353476/28494126-680f3a4e-6eda-11e7-9235-0cd1b4bdf408.png)
 ![update-channel_2x](https://user-images.githubusercontent.com/18353476/28494098-68114d94-6ed9-11e7-87d2-3c0c30e866ac.png)
 ![create virutal device](https://user-images.githubusercontent.com/18353476/28558055-f8d720b4-70c4-11e7-9b68-aadde703aedf.gif)
 
+# Getting Started with Android NDK
+The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
 
-# Getting started with Android development
+  Squeeze extra performance out of a device to achieve low latency or run computationally intensive applications, such as games or physics simulations.
 
-https://docs.unity3d.com/Manual/android-GettingStarted.html
+  Reuse your own or other developers' C or C++ libraries.
+
+Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
 
 # Pandorabots
 The [Pandorabots Playground](https://www.pandorabots.com/) is a free, integrated development environment for building chatbots loaded with features and tools. 
