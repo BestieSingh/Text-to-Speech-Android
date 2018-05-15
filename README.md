@@ -13,9 +13,19 @@ To build this program you will need to install the following software listed bel
 # Android Studio
 [Android Studio](https://developer.android.com/studio/index.html)
 
-[Android 8.0 (API level 26) Features and APIs](https://developer.android.com/about/versions/oreo/android-8.0.html)
+[Android Studio User Guide](https://developer.android.com/studio/intro/)
 
-[A good tutorial for Android Studio Setup(Windows, Mac, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
+[Debugging App on Android](https://developer.android.com/studio/debug/index.html)
+
+[Unit Tests on Android](https://developer.android.com/studio/test/index.html)
+
+[Profiling App Performance on Android](https://developer.android.com/studio/profile/index.html)
+
+[Publishing App on Android](https://developer.android.com/studio/publish/index.html)
+
+[Android 8.1 (API level 27) Features and APIs ](https://developer.android.com/about/versions/oreo/android-8.1)
+
+[Android 8.0 (API level 26) Features and APIs](https://developer.android.com/about/versions/oreo/android-8.0.html)
 
 [Getting started with Android development in Unity](https://docs.unity3d.com/Manual/android-GettingStarted.html)
 
