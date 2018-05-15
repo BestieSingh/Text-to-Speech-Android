@@ -13,8 +13,6 @@ To build this program you will need to install the following software listed bel
 # Android Studio
 [Android Studio](https://developer.android.com/studio/index.html)
 
-[Android Studio User Guide](https://developer.android.com/studio/intro/)
-
 [Debugging App on Android](https://developer.android.com/studio/debug/index.html)
 
 [Unit Tests on Android](https://developer.android.com/studio/test/index.html)
