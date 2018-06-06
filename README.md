@@ -1,12 +1,10 @@
-# Text to Speech Android Plugin
-
+# Text to Speech Android
 To build this program you will need to install the following software listed below on your system. Also thank you to my programming partner Anthony Jones for his help.
 
 # Unity3d
 [Unity 2017.3 or later](https://unity3d.com)
 
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
-![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398802-b888561e-6cbd-11e7-9bd4-9d77f33e424e.png)
 
 # Android Studio
 [Android Studio](https://developer.android.com/studio/index.html)
